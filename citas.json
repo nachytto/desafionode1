@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": 9,
+    "tipoanimal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "felipon",
+    "edad": 90,
+    "tipoanimal": "gato",
+    "color": "negro",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Benito",
+    "edad": 9,
+    "tipoanimal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  }
+]
